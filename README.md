@@ -1,3 +1,4 @@
 # tugas_NLP
 
-#masih progrea per minggu
+#masih progres per minggu,
+minggu depan tambah data 6000,scraping
